@@ -1,0 +1,1 @@
+<iframe border="0" style="border:0" src="{$movie_url}/embed_player?iframe=True" width="{$width}" height="{$height}"></iframe>
